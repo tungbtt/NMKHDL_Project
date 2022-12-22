@@ -1,0 +1,5 @@
+Nội dung bổ sung thêm sau khi vấn đáp:
+- Sửa lỗi chính tả slide
+- Sửa lỗi chính tả file DataPreprocessing
+- Bổ sung đồ thị trực quan hóa việc so sánh 2 mô hình
+- Thêm đánh giá mô hình bằng R Square
